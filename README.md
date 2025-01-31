@@ -12,10 +12,10 @@ Any additional information goes here
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| **Dark Blue**   | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) | `#0a192f` |
-| **White**       | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) | `#f8f8f8` |
-| **Green**       | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) | `#00b48a` |
-| **Light Green** | ![#00d1a0](https://via.placeholder.com/10/00d1a0?text=+) | `#00d1a0` |
+| Dark Blue     | #041927  | <div style="background-color: #041927; width: 50px; height: 20px;"></div> |
+| White         | #FFFFFF  | <div style="background-color: #FFFFFF; width: 50px; height: 20px; border: 1px solid #ccc;"></div> |
+| Green         | #005488  | <div style="background-color: #005488; width: 50px; height: 20px;"></div> |
+| Light Green   | #002140  | <div style="background-color: #002140; width: 50px; height: 20px;"></div> |
 
 ## 🔗 Links
 
