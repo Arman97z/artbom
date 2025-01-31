@@ -12,10 +12,10 @@ Any additional information goes here
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| **Dark Blue** | ![Dark Blue](https://img.shields.io/badge/Dark_Blue-0a192f?style=for-the-badge) | `#0a192f` |
-| **White**     | ![White](https://img.shields.io/badge/White-f8f8f8?style=for-the-badge)         | `#f8f8f8` |
-| **Green**     | ![Green](https://img.shields.io/badge/Green-00b48a?style=for-the-badge)         | `#00b48a` |
-| **Light Green** | ![Light Green](https://img.shields.io/badge/Light_Green-00d1a0?style=for-the-badge) | `#00d1a0` |
+| **Dark Blue** | ![Dark Blue](https://img.shields.io/badge/Dark_Blue-0a192f?style=for-the-badge) | `#0a192f`#0a192f |
+| **White**     | ![White](https://img.shields.io/badge/White-f8f8f8?style=for-the-badge)         | `#f8f8f8`#f8f8f8 |
+| **Green**     | ![Green](https://img.shields.io/badge/Green-00b48a?style=for-the-badge)         | `#00b48a`#00b48a |
+| **Light Green** | ![Light Green](https://img.shields.io/badge/Light_Green-00d1a0?style=for-the-badge) | `#00d1a0`#00d1a0 |
 
 
 ## 🔗 Links
