@@ -12,10 +12,19 @@ Any additional information goes here
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Dark Blue     | #041927  | <div style="background-color: #041927; width: 50px; height: 20px;"></div> |
-| White         | #FFFFFF  | <div style="background-color: #FFFFFF; width: 50px; height: 20px; border: 1px solid #ccc;"></div> |
-| Green         | #005488  | <div style="background-color: #005488; width: 50px; height: 20px;"></div> |
-| Light Green   | #002140  | <div style="background-color: #002140; width: 50px; height: 20px;"></div> |
+
+- **Dark Blue (#041927):**
+  <div style="background-color: #041927; padding: 10px; border-radius: 5px; color: white;">#041927</div>
+
+- **White (#FFFFFF):**
+  <div style="background-color: #FFFFFF; padding: 10px; border-radius: 5px; border: 1px solid #ccc;">#FFFFFF</div>
+
+- **Green (#005488):**
+  <div style="background-color: #005488; padding: 10px; border-radius: 5px; color: white;">#005488</div>
+
+- **Light Green (#002140):**
+  <div style="background-color: #002140; padding: 10px; border-radius: 5px; color: white;">#002140</div>
+
 
 ## 🔗 Links
 
