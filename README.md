@@ -12,16 +12,16 @@ Any additional information goes here
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Dark Blue   | <span style="background-color:#0a192f; color:#fff; padding:5px 10px;">#0a192f</span> |
-| White       | <span style="background-color:#f8f8f8; color:#000; padding:5px 10px;">#f8f8f8</span> |
-| Green       | <span style="background-color:#00b48a; color:#fff; padding:5px 10px;">#00b48a</span> |
-| Light Green | <span style="background-color:#00d1a0; color:#fff; padding:5px 10px;">#00d1a0</span> |
+| **Dark Blue**   | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) | `#0a192f` |
+| **White**       | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) | `#f8f8f8` |
+| **Green**       | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) | `#00b48a` |
+| **Light Green** | ![#00d1a0](https://via.placeholder.com/10/00d1a0?text=+) | `#00d1a0` |
 
 ## 🔗 Links
 
-[![linkedin ali](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iranmanesh999)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iranmanesh999)
 
-[![linkedin arman](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arman97z)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arman97z)
 
 
 ## Lessons Learned
