@@ -12,18 +12,10 @@ Any additional information goes here
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-
-- **Dark Blue (#041927):**
-  <div style="background-color: #041927; padding: 10px; border-radius: 5px; color: white;">#041927</div>
-
-- **White (#FFFFFF):**
-  <div style="background-color: #FFFFFF; padding: 10px; border-radius: 5px; border: 1px solid #ccc;">#FFFFFF</div>
-
-- **Green (#005488):**
-  <div style="background-color: #005488; padding: 10px; border-radius: 5px; color: white;">#005488</div>
-
-- **Light Green (#002140):**
-  <div style="background-color: #002140; padding: 10px; border-radius: 5px; color: white;">#002140</div>
+| **Dark Blue** | ![Dark Blue](https://img.shields.io/badge/Dark_Blue-0a192f?style=for-the-badge) | `#0a192f` |
+| **White**     | ![White](https://img.shields.io/badge/White-f8f8f8?style=for-the-badge)         | `#f8f8f8` |
+| **Green**     | ![Green](https://img.shields.io/badge/Green-00b48a?style=for-the-badge)         | `#00b48a` |
+| **Light Green** | ![Light Green](https://img.shields.io/badge/Light_Green-00d1a0?style=for-the-badge) | `#00d1a0` |
 
 
 ## 🔗 Links
