@@ -4,9 +4,7 @@
 A responsive webpage designed to showcase an artist's portfolio with simple yet captivating features, ensuring an elegant and immersive experience for visitors
 
 
-## Appendix
 
-Any additional information goes here
 
 ## Color Reference
 
@@ -50,4 +48,4 @@ Bootstrap
   ## Acknowledgements
 
 ## Acknowledgements
-- Special thanks to [Ali Iranmanesh](https://github.com/Aliiranmanesh) for contributions and support.
+- Special thanks to [Ali Iranmanesh](https://github.com/Aliiranmanesh) for contributions and support.🙏
