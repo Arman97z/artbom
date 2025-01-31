@@ -47,3 +47,7 @@ Bootstrap
 - Test across different browsers for compatibility
 - Fix potential bugs and refine UI elements
 - Deploy the final version on a server or **GitHub Pages**
+  ## Acknowledgements
+
+## Acknowledgements
+- Special thanks to [Ali Iranmanesh](https://github.com/Aliiranmanesh) for contributions and support.
