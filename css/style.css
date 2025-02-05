@@ -18,4 +18,28 @@ body::before{
     height: 100%;
     background-color: rgba(0, 0, 0, 0.9);
 }
+.img_nav{
+    width: 19rem;
+}
+.sidebar {
+    height: 100vh; 
+    position: fixed;
+    top: 0;
+    right: 0; 
+    width: 250px; 
+    background-color: rgba(10, 10, 10, 0.8);
+    padding-top: 20px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+.sidebar .nav-link {
 
+    padding: 30px 20px;
+    color: #333;
+}
+.sidebar .nav-link:hover {
+    background-color: #e9ecef;
+}
+.main-content {
+    margin-right: 250px; 
+    padding: 20px;
+}
