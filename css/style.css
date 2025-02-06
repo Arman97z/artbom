@@ -2,3 +2,15 @@
     background: rgb(184,149,230);
     background: linear-gradient(90deg, rgba(184,149,230,1) 0%, rgba(5,32,93,1) 35%);
 }
+.logo-sp{
+    display: block;
+    padding: 1rem;
+    background: #000;
+    border-radius: 10%;
+    -webkit-border-radius: 10%;
+    -moz-border-radius: 10%;
+    -ms-border-radius: 10%;
+    -o-border-radius: 10%;
+    background: conic-gradient(from 180deg at 50% 120%, #e85907, #eb5638, #f83fa4, #a87cff, #00c477, #b8b500, #daac00, #deab02);
+    margin-bottom: 2rem;
+}
