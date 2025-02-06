@@ -3,21 +3,6 @@
 
 A responsive webpage designed to showcase an artist's portfolio with simple yet captivating features, ensuring an elegant and immersive experience for visitors
 
-
-## Appendix
-
-Any additional information goes here
-
-## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| #0a192f    | ![#0a192f](https://img.shields.io/badge/-%230a192f?style=flat-square&logoColor=white&color=0a192f) | Dark Blue     |
-| #f8f8f8    | ![#f8f8f8](https://img.shields.io/badge/-%23f8f8f8?style=flat-square&logoColor=black&color=f8f8f8) | White         |
-| #00b48a    | ![#00b48a](https://img.shields.io/badge/-%2300b48a?style=flat-square&logoColor=white&color=00b48a) | Green         |
-| #00d1a0    | ![#00d1a0](https://img.shields.io/badge/-%2300d1a0?style=flat-square&logoColor=white&color=00d1a0) | Light Green   |
-
-
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iranmanesh999)
@@ -52,4 +37,4 @@ Bootstrap
   ## Acknowledgements
 
 ## Acknowledgements
-- Special thanks to [Ali Iranmanesh](https://github.com/Aliiranmanesh) for contributions and support.
+- Special thanks to [Ali Iranmanesh](https://github.com/Aliiranmanesh) for contributions and support.🙏

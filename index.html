@@ -1,40 +1,215 @@
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>artnom</title>
     <link rel="stylesheet" href="css/bootstrap.rtl.min.css">
     <link rel="stylesheet" href="css/style.css">
-
-
 </head>
-<body>
-      
- 
-    <div class="sidebar">
-        <img src="img/logo.png" alt="" class="img_nav img-fluid">
-        <ul class="nav flex-column">
-            <li class="nav-item">
-                <a class="nav-link active" href="#">خانه</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">کافه</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">باشگاه ورزشی</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">مدارس</a>
-            </li>
-        </ul>
-    </div>
 
-    <div class="main-content">
-        <h1>محتوای اصلی</h1>
-        <p>این محتوای اصلی صفحه است که در سمت راست منو قرار دارد.</p>
+<body>
+    <div class="container-fluid background">
+        <div class="row min-vh-100">
+            <div class="col-sm-3 bg-menu text-center">
+
+                <nav class="navbar navbar-dark  flex-column mt-5  position-sticky top-0">
+                    <a class="navbar-brand logo-sp" href="#">ARTBOOM</a>
+                    <ul class="nav navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#"><i class="fas fa-home "></i>
+                                <h2 class="lead">خانه</h2>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#"><i class="fas fa-user"></i>
+                                <h3 class="lead">درباره ما</h3>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#"><i class="fas fa-user"></i>
+                                <h3 class="lead">تماس با ما</h3>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+
+            <div class="col-sm-9 text-center ">
+                <div class="container-fluid">
+                    <div class="row d-flex flex-column justify-content-center align-items-center h-100 mt-5 mb-5">
+
+                        <div class="col-sm-6  p-3">
+                            <h3 class="text-start text-white mb-4 ">  طراحی دیوار کافی شاپ</h3>
+                            <div id="carousel-coffe" class="carousel slide">
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                        <img src="img/cafe_food/cafe1.jpg" class="d-block w-100" style="height: 300px; "
+                                            alt="...">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="img/cafe_food/cafe5.jpg" class="d-block w-100" style="height: 300px;"
+                                            alt="...">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="img/cafe_food/cafe3.jpg" class="d-block w-100" style="height: 300px;"
+                                            alt="...">
+                                    </div>
+                                </div>
+                                <button class="carousel-control-prev" type="button" data-bs-target="#carousel-coffe"
+                                    data-bs-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#carousel-coffe"
+                                    data-bs-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Next</span>
+                                </button>
+                            </div>
+                        </div>
+
+
+                        <div class="col-sm-6  p-3">
+                            <h3 class="text-start text-white mb-4">باشگاه</h3>
+                            <div id="carousel-gym" class="carousel slide">
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                        <img src="img/gym/gym1.jpg" class="d-block w-100" style="height: 300px; "
+                                            alt="...">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="img/gym/gym2.jpg" class="d-block w-100" style="height: 300px;"
+                                            alt="...">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="img/gym/gym3.jpg" class="d-block w-100" style="height: 300px;"
+                                            alt="...">
+                                    </div>
+                                </div>
+                                <button class="carousel-control-prev" type="button" data-bs-target="#carousel-gym"
+                                    data-bs-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#carousel-gym"
+                                    data-bs-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Next</span>
+                                </button>
+                            </div>
+                        </div>
+
+
+
+
+                        <div class="col-sm-6  p-3">
+                            <h3 class="text-start text-white mb-4">خط</h3>
+
+                            <div id="carousel-khat" class="carousel slide">
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                        <img src="img/khat/khat2.jpg" class="d-block w-100" style="height: 300px; "
+                                            alt="...">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="img/khat/khat4.jpg" class="d-block w-100" style="height: 300px;"
+                                            alt="...">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="img/khat/khat4.jpg" class="d-block w-100" style="height: 300px;"
+                                            alt="...">
+                                    </div>
+                                </div>
+                                <button class="carousel-control-prev" type="button" data-bs-target="#carousel-khat"
+                                    data-bs-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#carousel-khat"
+                                    data-bs-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Next</span>
+                                </button>
+                            </div>
+                        </div>
+
+
+
+
+                        <div class="col-sm-6  p-3 ">
+                            <h3 class="text-start text-white mb-4">نقاشی</h3>
+                            <div id="carousel-paint" class="carousel slide">
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                        <img src="img/paint/paint1.jpg" class="d-block w-100" style="height: 300px; "
+                                            alt="...">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="img/paint/paint2.jpg" class="d-block w-100" style="height: 300px;"
+                                            alt="...">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="img/paint/paint3.jpg" class="d-block w-100" style="height: 300px;"
+                                            alt="...">
+                                    </div>
+                                </div>
+                                <button class="carousel-control-prev" type="button" data-bs-target="#carousel-paint"
+                                    data-bs-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#carousel-paint"
+                                    data-bs-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Next</span>
+                                </button>
+                            </div>
+                        </div>
+
+
+
+
+
+                        <div class="col-sm-6  p-3 mb-4 ">
+                            <h3 class="text-start text-white mb-4">طراحی دیوار مدرسه</h3>
+
+                            <div id="carouselExample" class="carousel slide">
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                        <img src="img/school/school1.jpg" class="d-block w-100" style="height: 300px; "
+                                            alt="...">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="img/school/school2.jpg" class="d-block w-100" style="height: 300px;"
+                                            alt="...">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="img/school/school3.jpg" class="d-block w-100" style="height: 300px;"
+                                            alt="...">
+                                    </div>
+                                </div>
+                                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample"
+                                    data-bs-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#carouselExample"
+                                    data-bs-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Next</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
     </div>
 
     <script src="js/bootstrap.bundle.min.js"></script>
 </body>
+
 </html>
