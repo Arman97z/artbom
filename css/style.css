@@ -1,7 +1,5 @@
 .background {
-    background: rgb(184,149,230);
-    background: linear-gradient(90deg, rgba(184,149,230,1) 0%, rgba(5,32,93,1) 35%);
-}
+    background: linear-gradient(90deg, #f5e7f8, #cfd9f8, #9cd2e3, #83c6ae, #9ead69, #bf8641, #c36064, #9e4f9b); /* made at https://learnui.design/tools/gradient-generator.html */}
 .logo-sp{
     display: block;
     padding: 1rem;
@@ -14,3 +12,10 @@
     background: conic-gradient(from 180deg at 50% 120%, #e85907, #eb5638, #f83fa4, #a87cff, #00c477, #b8b500, #daac00, #deab02);
     margin-bottom: 2rem;
 }
+.bg-menu{
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );}
